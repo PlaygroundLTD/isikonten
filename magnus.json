@@ -237,16 +237,7 @@
       "image":"https://play.google.com/store/apps/details?id=com.playgroundltd.kimloaiza",
       "link":"https://play-lh.googleusercontent.com/ShNPmuO3kA-RQKUzRLd5xymvSLVQuXXqepwj-ksqSr3sG8AZTH1_-D32uoSvLnrA59o=w480-h960"
     }
-  ],
-  "More":
-  [
-    {
-      "id":1,
-      "title":"Ludo King",
-      "image":"file:///android_asset/ludo.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
-    }
-  ],
+  ], 
   "Item":
   [
       {
