@@ -1,7 +1,7 @@
 {
   "Ads": [
       {
-     "select_main_ads": "FACEBOOK",
+     "select_main_ads": "APPLOVIN-M",
       "select_backup_ads":"APPLOVIN-D",
       "main_ads_banner": "",
       "main_ads_intertitial":"",
@@ -32,9 +32,210 @@
   [
     {
       "id":1,
-      "title":"Ludo King",
-      "image":"file:///android_asset/ludo.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+      "title":"Call With Real Diana and Roma",
+      "image":"https://play-lh.googleusercontent.com/jWnXGG-uxOwAM8OroDJZO4D2auBf5xW1d2HkW2jmiNj7G-LY02wnyWUa2HaHFXkU2qI=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.dianaandroma"
+    },
+    {
+      "id":1,
+      "title":"Chat With Shfa2 Prank",
+      "image":"https://play-lh.googleusercontent.com/OCAzLdUiWp24CE3jR_ZjzPLGU1V4j1yNRE6PTP-WeO5ZlMxibcO4l1FCvf7Te5w5SzV8=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.shfa"
+    },{
+      "id":1,
+      "title":"Chat With Jacob Sartorius",
+      "image":"https://play-lh.googleusercontent.com/t_gsn6dBbDqH0ePw3l6Bk40FViZ1bXBQJ4yobU_ftjy4tlK0D-vAJ2-WKERRRZWrhg=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.jacobsatorius"
+    },{
+      "id":1,
+      "title":"Chat With James Charles Prank",
+      "image":"https://play-lh.googleusercontent.com/hfZRQGeh4dwZai9vz0um3XWu_tZcUlzI2N7Rgj9ASfD-aNZcLYbwnkPn8aURhMU3jg=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.jamescharles"
+    },{
+      "id":1,
+      "title":"Chat With Emma Chamberlain",
+      "image":"https://play-lh.googleusercontent.com/tmJivMAlZ-BZ9yTFrSHuiPpizlTZ6OBTHmvEx3jyD7O8N7eXSHAoeQ_KqVu1LOmZ6eg=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.chamberlian"
+    },{
+      "id":1,
+      "title":"Chat With Gavin Magnus Prank",
+      "image":"https://play-lh.googleusercontent.com/CUtiCnyhYGwwzkHd96a60JcdoAMoHR8edfqcbXxYt-sIQV0Egy0Ybex3-qPE7YOQow=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.magnus"
+    },{
+      "id":1,
+      "title":"Chat With Bobby Chourasiya",
+      "image":"https://play-lh.googleusercontent.com/Y7Z4FTPR_IKE-omrgCBOVtPOhk5yH0hEmWLJnollTp4Ucmmpfv8wFuIBhq6u5ZvmEA=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.bobbychourasiya"
+    },{
+      "id":1,
+      "title":"Chat With Piper Rockelle Prank",
+      "image":"https://play-lh.googleusercontent.com/iDXWksTPnd8vnbID98EDFpoR7qu1OUZusPKIcSJ8XfhuR5V1fQ5Pn_t6m_mtcyw34UY=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.piperrockelle"
+    },{
+      "id":1,
+      "title":"Call With Real Saloni Singh",
+      "image":"https://play-lh.googleusercontent.com/MW6T30lLvPcWqQmxK1gpWvvQPtakhR0AUnDUQwvlmFLGoPImNMrpCGy7VbNLbP12YmQ=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.salonisingh"
+    },{
+      "id":1,
+      "title":"Chat With Michael Le Prank",
+      "image":"https://play-lh.googleusercontent.com/jdYVHc3naDdLCvBaAH9TT7BGVCozQ6pBXArLqsLcOROlq7aHyS83p4w_3IAGpv8lGc3y=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.michaelle"
+    },{
+      "id":1,
+      "title":"Chat With sssniperwolf Prank",
+      "image":"https://play-lh.googleusercontent.com/VRpCzIASYXv0b63uZZleOspF0AT9maYtg-jTghsw54khp05frwVZmJmZkyOQTyTN9m5a=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.sssniperwold"
+    },{
+      "id":1,
+      "title":"Chat With Peet Montzingo Prank",
+      "image":"https://play-lh.googleusercontent.com/90NphnEjDpPnABew2g9Nwe3sizb616WhoFiGd-PndH6O1Zv_fL0_Nriz2YUAArlHqFs=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.peetmontzingo"
+    },{
+      "id":1,
+      "title":"Chat With Benji Krol Prank",
+      "image":"https://play-lh.googleusercontent.com/uXHsxKC-8nIKzlS6weVu4d0mk7dtv6qcwar4OeqyNo3AvU1uabSz6kDTLA-py2plYlU=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.benjikrol"
+    },{
+      "id":1,
+      "title":"Chat With EvanTubeHD Prank",
+      "image":"https://play-lh.googleusercontent.com/GB2OANwLEwa6T0tgL-QWjl_t33MJPRGZPm0W0Chk_Y5qPUFLgV6aRhnoRwK5VexLaw=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.evantube"
+    },{
+      "id":1,
+      "title":"Call With Real Mr. MAx",
+      "image":"https://play-lh.googleusercontent.com/6NdS0QWAm1W-JvQnuhC58MYeYRzoRb2krtQdwvWDw9ZBwLqGDqzDr1vY59EYSVqkz2qN=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.mrmax"
+    },{
+      "id":1,
+      "title":"Chat With Zach King Prank",
+      "image":"https://play-lh.googleusercontent.com/GVE9w40q4voAlOAkaQfQj912LrQhi8Ae8AegEMHK1Brr_szrjxEwtzg-I49T0gB2PNOg=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.zachking"
+    },{
+      "id":1,
+      "title":"Call With Real David Dobrik",
+      "image":"https://play-lh.googleusercontent.com/CISh0WscFYvwM9Ou5R9jthTYDjfwk04j4_njqQHBPfh37HpZyq1DxUE3UaPD3vgcR6c=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.daviddobrik"
+    },{
+      "id":1,
+      "title":"Chat With Brooklyn and Bailey",
+      "image":"https://play-lh.googleusercontent.com/XiUOuPOPJteB_fUAhtavPjw7V0dY2mMSKIfdOGHS7rVqaYkbfJg0XxtZgtAMK-1hgHZq=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.brooklynandbailey"
+    },{
+      "id":1,
+      "title":"Chat With Ikakin Prank",
+      "image":"https://play-lh.googleusercontent.com/isERcxxi1F4ddGrqAP4kVj9copr7vCUmyyC9j14MMCMa4zeoo8Gl760pj88CmkdE9mzE=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.ikakin"
+    },{
+      "id":1,
+      "title":"Chat With Bella Poarch Prank",
+      "image":"https://play-lh.googleusercontent.com/zeLgG5vyA4mwF5SadVPnbuMUcCqG1bYf59VkJcGICnozSKMJR53s0dLYvUldPFaLvHi8=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.bellapoarch"
+    },{
+      "id":1,
+      "title":"Call With Real Miss Katy",
+      "image":"https://play-lh.googleusercontent.com/RKSAetOnEUbF4cjTz3Wsj2X_Fk04EV9Q88UjahCS7u2XhKC_lnaAxCPZ2YyT056vNUA=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.misskaty"
+    },{
+      "id":1,
+      "title":"Chat With Everleigh Rose Prank",
+      "image":"https://play-lh.googleusercontent.com/IFChemzR0OCnrG_dfOHrzmleKXXsU3tQvxYK-9Bk9-duZ2VOGVqWz0PK2kcoS6bhg2M=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.everleighrose"
+    },{
+      "id":1,
+      "title":"Chat With Lee Da-hee Prank",
+      "image":"https://play-lh.googleusercontent.com/517Ko-YwBuh19CbStZw29ZdFWJOwr02ci0pi7gvsGdNQOCLNqKAslhcpOBVWKvpt0K_2=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.ledahee"
+    },{
+      "id":1,
+      "title":"Chat With Las Ratitas Prank",
+      "image":"https://play-lh.googleusercontent.com/dl9sXSti9KufQ3ovXqTZ5x4EGoifi6rHbWXTGBBDzWVB5mEBRQdfWabgJMzdLgr4ekQ=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.lasratitas"
+    },{
+      "id":1,
+      "title":"Call WithReal Alan Chikin Chow",
+      "image":"https://play-lh.googleusercontent.com/JHDScrcLrxW6eNZx7stL5mM0SNmtWuYUHrNK6ZVYzhj3f-XyVO7vWnr1QVwjDlgV3Q=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.alanchikinchow"
+    },{
+      "id":1,
+      "title":"Chat With Liza Koshy Prank",
+      "image":"https://play-lh.googleusercontent.com/iggyTomN3aGLkAUBYh-_-ltpR-PRnL63hH3uNUyG69xFVumDyqOqt2RRRw1mgEZOPiM=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.lizakoshy"
+    },{
+      "id":1,
+      "title":"Call & Chat With Brianna Prank",
+      "image":"https://play-lh.googleusercontent.com/W-OLwmMDMtL5H4GR48G6YIWZ2pQ_-yB8AFF5Qp22ybNsriaXFe-7ces00wtCcBvYaRg=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.brianna"
+    },{
+      "id":1,
+      "title":"Call With Real Koray Zeynep",
+      "image":"https://play-lh.googleusercontent.com/YrJR5t3YW888f_DY1W5myodKOlhAvuZ-HkwfzXVgYkB1qqsbLNZjOBjXa76SQIJNmQFE=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.korayzeynep"
+    },{
+      "id":1,
+      "title":"Chat With RonaldOMG Prank",
+      "image":"https://play-lh.googleusercontent.com/IbNDgEpTqQibenPw99rH9RH2FOelqomHI56-7u6vBtw5K6DeQI9cXM2QaUbFtedfIQ=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.ronaldomg"
+    },{
+      "id":1,
+      "title":"Chat With Karina Garcia Prank",
+      "image":"https://play-lh.googleusercontent.com/Zc54OVVEY5GgaCd8vS-NIP03LMPkVxoai0JYFbWkS1d9hV9pTXxxr8ay3KRjhrcG3g=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.karinagarcia"
+    },{
+      "id":1,
+      "title":"Chat With Guava Juice Prank",
+      "image":"https://play-lh.googleusercontent.com/J9ozYizEOQLguxUu3XHYo7m9ewqgDon9qI7_JQ7i6wZPGv4NdUY-OrSZ25cohBp25Q=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.guavajuice"
+    },{
+      "id":1,
+      "title":"Call With Real Sourav Joshi",
+      "image":"https://play-lh.googleusercontent.com/ZBVQNv5jVHI4Y_L0EVT77O5zlXSmhlGeK7P49Q098XGBBcEMXYOTOT4xgxD_iFJN-Di9=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.souravjoshi"
+    },{
+      "id":1,
+      "title":"Chat With Jaiden Animations",
+      "image":"https://play-lh.googleusercontent.com/ES9nw6azHOhCUpNrMDg8jg1yeKDdpedezrxYsw-BT-ITvrMszi9ioU2rA7bmUGwQWkg=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.jaidenanimations"
+    },{
+      "id":1,
+      "title":"Call With Real Lankybox",
+      "image":"https://play-lh.googleusercontent.com/dTKeTFRTXONJ6Ii2l5CovqLN9cj1DlZwmQkJQ6Fz3QHMxTBCbTEMWZCjU203JlQjqQ=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.lankrybox"
+    },{
+      "id":1,
+      "title":"Chat With Sofie Dossi Prank",
+      "image":"https://play-lh.googleusercontent.com/e2F69sJmDzlwjbXTuE4cATTIDTA1KURm3FjmygwRaFNISZjqX0El1EDIJjMWoYyhxvQ=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.sofiedossi"
+    },{
+      "id":1,
+      "title":"Chat With Jenna Davis Prank",
+      "image":"https://play.google.com/store/apps/details?id=com.playgroundltd.jennadavis",
+      "link":"https://play-lh.googleusercontent.com/Qqa4ufVWqaP4v9NX8czpHljLZrt_lHezBNo1peqyVL5_VQxmGjcocB957KY62dqap6ey=w480-h960"
+    },{
+      "id":1,
+      "title":"Chat With Chotu Dada Prank",
+      "image":"https://play-lh.googleusercontent.com/hzMKNcwe1jMl8aALS95mE5qxIjN_R7FBrdXa3gcMO-0AMoV0dnvqmQXUsbwQNK0wxQ=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.chotudada"
+    },{
+      "id":1,
+      "title":"Chat With Jazzghost Prank",
+      "image":"https://play-lh.googleusercontent.com/9Y_qyC8zHKrxjL37WvIOnjqr_9o1-aNQTh31r85hOyveu5FvNjA90geIay6ZRqrD7aQ=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.jazzghost"
+    },{
+      "id":1,
+      "title":"Call With Real KatieAngel",
+      "image":"https://play-lh.googleusercontent.com/N7fpOjvDG45gvZsZNA0zy3gkiNxLlcCHxh_JmyrJqUR4YoTgRJWJAyTGPmSorx2zYQ=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.katieangel"
+    },{
+      "id":1,
+      "title":"Chat With Rosanna Pansino",
+      "image":"https://play-lh.googleusercontent.com/2sTQVNjMHdjQA1i6Aj7WSpWeq4NEyTLmO5WKJsolpVJsYQclZzUxfGmQ7dm2X7hOOFo=w480-h960",
+      "link":"https://play.google.com/store/apps/details?id=com.playgroundltd.rosannapansino"
+    },{
+      "id":1,
+      "title":"Call With Real Kim Loaiza",
+      "image":"https://play.google.com/store/apps/details?id=com.playgroundltd.kimloaiza",
+      "link":"https://play-lh.googleusercontent.com/ShNPmuO3kA-RQKUzRLd5xymvSLVQuXXqepwj-ksqSr3sG8AZTH1_-D32uoSvLnrA59o=w480-h960"
     }
   ],
   "Item":
